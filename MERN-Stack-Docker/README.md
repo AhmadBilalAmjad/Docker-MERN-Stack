@@ -10,4 +10,4 @@
 - Copy the docker-compose.yml file into the root of your app
 
 # In server.js or the root file of your backend make sure:-
-- mongo db connection path is: "mongodb://mongo:27017/your'sdbname"
+- mongo db connection path is: "mongodb://mongo:27017/your's dbname"
